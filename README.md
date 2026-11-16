@@ -27,6 +27,8 @@ link to its source.
 
 ## OpenCode skill
 
-This repository includes the project-local `/learned` skill at
-`.opencode/skills/learned/SKILL.md`. Use it to add learning entries to the
-daily notes in the required format.
+This repository includes an OpenCode project skill named `learned` at
+`.opencode/skills/learned/SKILL.md`. OpenCode can use it when you say you
+learned something or ask to record a learning. It adds a titled entry to the
+current day's note, creating the date-named file if needed, while following the
+notes format above.
